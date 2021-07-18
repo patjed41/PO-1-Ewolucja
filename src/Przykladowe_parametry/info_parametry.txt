@@ -1,0 +1,3 @@
+Dałem przykładowy plik parametry.txt, aby pokazać, jakich 
+parametrów oczekuje mój program i w jakim powinny być formacie,
+na wypadek, gdybym źle zrozumiał treść zadania.
