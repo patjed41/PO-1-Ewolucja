@@ -5,3 +5,12 @@ My solution for laboratory task no. 1 of the [Object Oriented Programming (pol. 
 ## Full description in polish
 
 [**here**](https://github.com/patjed41/PO-1-Ewolucja/blob/master/ewolucja_tresc_zadania.pdf)
+
+## Example of use
+
+In directory `src`:
+
+```
+  javac zad1/Symulacja.java
+  java zad1/Symulacja Przykladowe_plansze/losowa_100x100.txt Przykladowe_parametry/parametry.txt
+```
