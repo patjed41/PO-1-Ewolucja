@@ -4,4 +4,4 @@ My solution for laboratory task no. 1 of the [Object Oriented Programming (pol. 
 
 ## Full description in polish
 
-[**here**](https://github.com/patjed41/PO-1-Ewolucja/blob/master/full_description.md)
+[**here**](https://github.com/patjed41/PO-1-Ewolucja/blob/master/ewolucja_tresc_zadania.md)
