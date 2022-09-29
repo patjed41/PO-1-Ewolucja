@@ -155,6 +155,3 @@ Zachęcamy też do eksperymentowania z parametrami (pliki plansza i parametry) p
 dzień ma się okazję śledzić przebieg ewolucji! Jeśli jakiś zestaw parametrów da Państwa zdaniem
 ciekawe wyniki, to zachęcam do dzielenia się nimi na specjalnym forum Moodle'a (w tym samym
 module Moodle'a).
-
----
-Copyright of the task's description: MIM UW.
