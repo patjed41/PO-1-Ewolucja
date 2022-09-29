@@ -1,6 +1,6 @@
 # Ewolucja
 
-My solution for the second project of the [Object-oriented programming (pol. Programowanie obiektowe)](https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=1000-212cPO) course in the 2021/2022 summer semester.
+My solution for the second project of the [Object-oriented programming (pol. Programowanie obiektowe)](https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=1000-212cPO) course taken in the 2021/2022 summer semester.
 
 ## Task
 
